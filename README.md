@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 <h1>This is a beginner project using React + Vite </h1>
 <br>
 <div>
-  <h1>Thia is a ecommerce website that has home page for product view, about for about, contact for contact and also a sign up page with proper Validation..</h1>
+  <h1>This is a ecommerce website that has home page for product view, about for about, contact for contact and also a sign up page with proper Validation..</h1>
 </div>
